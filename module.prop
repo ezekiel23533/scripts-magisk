@@ -1,7 +1,7 @@
 id=MMT-Ex
-name=Magisk Module Template Extended
+name=personal-magisk-scripts
 version=v3.1
 versionCode=13
-author=Zackptg5
-description=Magisk Module Template Extended
+author=me
+description=magisk script
 updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
