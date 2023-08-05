@@ -4,4 +4,4 @@ version=v3.1
 versionCode=13
 author=me
 description=magisk script
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+updateJson=https://raw.githubusercontent.com/ezekiel23533/scripts-magisk/master/update.json
